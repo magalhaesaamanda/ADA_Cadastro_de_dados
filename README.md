@@ -37,7 +37,7 @@ O cadastro de dados executa qualquer comando listado, até que saia do programa 
                 │       ├── Informações de todos os usuários
                 │       │   └── Imprimindo todos os usuários
                 │       │
-                │       └── Sairr
+                │       └── Sair
                 │  
                 └── Usuário
                     ├── Inserir usuário
@@ -51,6 +51,6 @@ O cadastro de dados executa qualquer comando listado, até que saia do programa 
                     │   └── Id do usuário
                     │       └── Imprimindo os dados
                     │
-                    └── Sairr
+                    └── Sair
 
 
