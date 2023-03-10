@@ -17,38 +17,40 @@ Escrever
 
 O cadastro de dados executa qualquer comando listado, até que saia do programa inserindo o número informado para isto.
 
-─── Menu de escolha do usuário
-    ├── Administrador
-    │   └── Senha
-    │       ├── Inserir usuário
-    │       │   └── Informações do usuário
-    │       │
-    │       ├── Excluir usuário
-    │       │   └── Id do usuário
-    │       │
-    │       ├── Atualizar usuário
-    │       │   └── Id do usuário
-    │       │       └── Alteração dos dados
-    │       │
-    │       ├── Informações de um usuário
-    │       │   └── Id do usuário
-    │       │       └── Imprimindo os dados
-    │       │
-    │       ├── Informações de todos os usuários
-    │       │   └── Imprimindo todos os usuários
-    │       │
-    │       └── Sairr
-    │  
-    └── Usuário
-        ├── Inserir usuário
-        │   └── Informações do usuário
-        │
-        ├── Atualizar usuário
-        │   └── Id do usuário
-        │       └── Alteração dos dados
-        │
-        ├── Informações de um usuário
-        │   └── Id do usuário
-        │       └── Imprimindo os dados
-        │
-        └── Sairr
+            ─── Menu de escolha do usuário
+                ├── Administrador
+                │   └── Senha
+                │       ├── Inserir usuário
+                │       │   └── Informações do usuário
+                │       │
+                │       ├── Excluir usuário
+                │       │   └── Id do usuário
+                │       │
+                │       ├── Atualizar usuário
+                │       │   └── Id do usuário
+                │       │       └── Alteração dos dados
+                │       │
+                │       ├── Informações de um usuário
+                │       │   └── Id do usuário
+                │       │       └── Imprimindo os dados
+                │       │
+                │       ├── Informações de todos os usuários
+                │       │   └── Imprimindo todos os usuários
+                │       │
+                │       └── Sairr
+                │  
+                └── Usuário
+                    ├── Inserir usuário
+                    │   └── Informações do usuário
+                    │
+                    ├── Atualizar usuário
+                    │   └── Id do usuário
+                    │       └── Alteração dos dados
+                    │
+                    ├── Informações de um usuário
+                    │   └── Id do usuário
+                    │       └── Imprimindo os dados
+                    │
+                    └── Sairr
+
+
